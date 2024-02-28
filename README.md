@@ -146,11 +146,8 @@ The application should now be running on the connected emulator or physical devi
 
 📷 **Screenshots**:
 
-<img src="https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/36bdbd48-4d89-42d0-9d1f-978b72e869f2" width="200" height="300">
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/36bdbd48-4d89-42d0-9d1f-978b72e869f2" width="500" height="500">
 
-![1000105572](https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/36bdbd48-4d89-42d0-9d1f-978b72e869f2)
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/c95a2537-6287-4820-b006-aa05eb8f2783" width="500" height="500">
 
-![1000105570](https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/c95a2537-6287-4820-b006-aa05eb8f2783)
-
-![1000105568](https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/dd22e1af-ea2d-4d0b-b516-43fffa6c3acb)
-
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/dd22e1af-ea2d-4d0b-b516-43fffa6c3acb" width="500" height="500">
