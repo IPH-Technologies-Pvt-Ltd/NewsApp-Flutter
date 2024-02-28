@@ -146,7 +146,7 @@ The application should now be running on the connected emulator or physical devi
 
 📷 **Screenshots**:
 
-<img src="https://your-image-url.type](https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/36bdbd48-4d89-42d0-9d1f-978b72e869f2" width="100" height="100">
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/36bdbd48-4d89-42d0-9d1f-978b72e869f2" width="200" height="300">
 
 ![1000105572](https://github.com/IPH-Technologies-Pvt-Ltd/NewsApp-Flutter/assets/154330571/36bdbd48-4d89-42d0-9d1f-978b72e869f2)
 
